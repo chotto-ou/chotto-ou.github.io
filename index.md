@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+---
+title: Chotto OÜ
+---
 
-You can use the [editor on GitHub](https://github.com/chotto-ou/chotto-ou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Chotto OÜ は、まずは「ちょっと」動くものを作り、エンドユーザーまで巻き込んだフィードバックを受け、そして次の「ちょっと」に取り組みます。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ちょっとずつ、を積み重ねることで、現代の複雑多様なソフトウェア開発に無理なく対応します。
 
-### Markdown
+なぜ、そのような方針で成功が難しいと言われているソフトウェア開発がうまくいくのでしょうか？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ひとつには、現代のソフトウェア開発が複雑多様化したのと同時に、専門高度化が進んだという点が挙げられます。
 
-```markdown
-Syntax highlighted code block
+そのため、開発ツールやプログラミング言語、ライブラリやマネージドサービスを適切に選択して利用すると、従来では考えられない開発パフォーマンスをあげることができるようになりました。
 
-# Header 1
-## Header 2
-### Header 3
+つまり、ひとりのエンジニアでカバーできる範囲が大きく広がったのです。
 
-- Bulleted
-- List
+その結果、作業の分散化が抑えられ、コミュニケーションロスやマネージメントコストをほぼゼロにする開発プロセスが可能になりました。
 
-1. Numbered
-2. List
+それが、ちょっと進めては様子をみる、というサイクルを小規模で回転させる原動力となり、うまくいくソフトウェア開発として機能するのです。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 開発技術
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chotto-ou/chotto-ou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ウェブアプリケーション開発を中心に、ソフトウェア開発一般に対応します。
 
-### Support or Contact
+開発速度にすぐれたオブジェクト指向型フルスタックフレームワークと、保守性にすぐれた型システムの強力な関数型プログラミングを使い分けます。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+開発からテスト、デプロイ、運用までを一貫して柔軟に管理するため、サービスを構成する各機能を細かく分割し、コンテナ化、仮想化します。
+
+
+## 会社概要
+
+### 創立
+
+2019年11月8日
+
+### 資本金
+
+2,500€
+
+### 代表者
+
+Hideaki Kawai [LinkedIn](https://www.linkedin.com/in/hideaki-kawai-b4897aa4/)
+
+### 従業員数
+
+1名
+
+### 事業内容
+
+ソフトウェア開発、技術コンサルティング
+
+### 住所
+
+Estonia, Harju maakond, Tallinn,
+Lasnamäe linnaosa, Sepapaja tn 6, 15551
